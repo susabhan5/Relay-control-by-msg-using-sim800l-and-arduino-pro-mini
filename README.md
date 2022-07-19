@@ -1,2 +1,2 @@
 # Relay-control-by-msg-using-sim800l-and-arduino-pro-mini
-Sir, I have send msg "Abcdef" but serial monitor shows:-+CMT: +9190020818**","","22/07/19,20:42:21+22"garbage Abc garbag?????? and it not print the value off "buf". pls help me.e
+Sir, I have send msg "Abcdef" but serial monitor shows:-+CMT: +9190020818**","","22/07/19,20:42:21+22"garbage Abc garbag?????? and it is not print the value off "buf". Pls help me. Why every time it receive garbage at the last part of msg. It print only the value of buff not any value of buf.
